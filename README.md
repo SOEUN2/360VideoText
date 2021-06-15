@@ -12,7 +12,7 @@
 1) Sphere 객체 생성
 2) 생성된 Sphere 객체 표면에 360도 영상을 삽입한다.
 3) ChangeNormal 클래스를 통해 외부에서 내부로 시점을 변환한다.
- :grey_exclamation: SightOrbitproved 클래스를 통해 카메라의 시점을 수정한다.
+  :grey_exclamation: SightOrbitproved 클래스를 통해 카메라의 시점을 수정한다.
 4) SightOrbitproved클래스를 이용하여 시점에 따라 자막을 이동할 수 있는 환경을 설정한다.
 5) 3D Text(자막)을 Main Camera 하위 계층에 추가한다.
 6) Build
