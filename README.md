@@ -26,7 +26,7 @@
 
 
 ##  개발 환경
-Window10  
-Unity 2018.3.11
+* Window10  
+* Unity 2018.3.11
 
 
